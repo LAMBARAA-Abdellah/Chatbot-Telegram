@@ -1,9 +1,7 @@
 # SALSAHABOT - AI-Powered Telegram Bot
 **Author: LAMBARAA Abdellah**
 
-```markdown
 **Chatbot** is a sophisticated application built with **Spring Boot 3.5** and **Spring AI**. It serves as an intelligent HR assistant, capable of processing text, analyzing images, and retrieving information from HR documents using RAG (Retrieval-Augmented Generation).
-```
 
 ## 🚀 Key Features
 
